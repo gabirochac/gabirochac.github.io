@@ -1,0 +1,89 @@
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #33cccc;
+  font-family: 'Quicksand', sans-serif;
+}
+ title{
+    Sbackground-color: #33cccc;
+  }
+
+
+li {
+  float: left;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #ccccb3;
+}
+header{
+  min-height: 60px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-bottom: 1px solid #ccc;
+  background: #ECECEC;
+  z-index: 2;
+}
+body{
+background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family:'Montserrat', sans-serif;;
+  }
+div {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+ #sobre {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+#formação {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+#contato {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+a{
+  color: black;
+  text-align: center;
+}
+
+ #p{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  }
+
+.fab {
+    font-size: 50px;
+  }
